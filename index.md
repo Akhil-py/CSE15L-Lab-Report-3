@@ -16,8 +16,8 @@ Example 2: Searching for all files in written_2/non-fiction/OUP/Kauffman
 
 ![image](https://user-images.githubusercontent.com/61783850/218347836-36a99545-e393-45f9-8b9f-c528c20dac9b.png)
 
-Source: OpenAI (2023). ChatGPT. Retrieved from https://openai.com/products/gpt-3/.
-https://linux.die.net/man/1/find
+Source: [https://openai.com/products/gpt-3/](OpenAI (2023). ChatGPT) & 
+[https://linux.die.net/man/1/find](https://linux.die.net/man/1/find)
 
 
 ### Option 2: -name
@@ -31,8 +31,8 @@ Example 2: Searching for the directory named Kaufman inside written_2
 
 ![image](https://user-images.githubusercontent.com/61783850/218347166-02d397d0-d248-4fe3-86b7-71637bdb566c.png)
 
-Source: OpenAI (2023). ChatGPT. Retrieved from https://openai.com/products/gpt-3/.
-https://linux.die.net/man/1/find
+Source: [https://openai.com/products/gpt-3/](OpenAI (2023). ChatGPT) & 
+[https://linux.die.net/man/1/find](https://linux.die.net/man/1/find)
 
 
 ### Option 3: -exec
@@ -46,8 +46,8 @@ Example 2: Displaying the number of lines in all ".txt" files in the written_2/n
 
 ![image](https://user-images.githubusercontent.com/61783850/218348579-74067e9e-f015-4807-8edd-dcb5d37207b1.png)
 
-Source: OpenAI (2023). ChatGPT. Retrieved from https://openai.com/products/gpt-3/.
-https://linux.die.net/man/1/find
+Source: [https://openai.com/products/gpt-3/](OpenAI (2023). ChatGPT) & 
+[https://linux.die.net/man/1/find](https://linux.die.net/man/1/find)
 
 
 ### Option 4: -size
@@ -61,5 +61,5 @@ Example 2: Displaying all files in written_2 that are less than 3 kilobytes.
 
 ![image](https://user-images.githubusercontent.com/61783850/218349013-7a96f4c1-7707-4502-b471-4aa6053e405d.png)
 
-Source: OpenAI (2023). ChatGPT. Retrieved from https://openai.com/products/gpt-3/.
-https://linux.die.net/man/1/find
+Source: [https://openai.com/products/gpt-3/](OpenAI (2023). ChatGPT) & 
+[https://linux.die.net/man/1/find](https://linux.die.net/man/1/find)
